@@ -35,6 +35,7 @@ function App() {
           <Route path="/admin" element={<Admindash />} />
           <Route path="/search" element={<search />}></Route>
         </Routes>
+        {/* test pr */}
         <Footer />
       </BrowserRouter>
     </div>
